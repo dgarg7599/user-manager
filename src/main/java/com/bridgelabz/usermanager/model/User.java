@@ -1,4 +1,4 @@
-package com.example.usermanager.model;
+package com.bridgelabz.usermanager.model;
 
 import jakarta.persistence.*;
 

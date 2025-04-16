@@ -1,7 +1,7 @@
-package com.example.usermanager.service;
+package com.bridgelabz.usermanager.service;
 
-import com.example.usermanager.model.User;
-import com.example.usermanager.repository.UserRepository;
+import com.bridgelabz.usermanager.model.User;
+import com.bridgelabz.usermanager.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

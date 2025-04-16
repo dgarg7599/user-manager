@@ -1,4 +1,4 @@
-package com.example.usermanager;
+package com.bridgelabz.usermanager;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

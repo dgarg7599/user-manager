@@ -1,8 +1,8 @@
-package com.example.usermanager.controller;
+package com.bridgelabz.usermanager.controller;
 
-import com.example.usermanager.model.User;
-import com.example.usermanager.repository.UserRepository;
-import com.example.usermanager.service.UserService;
+import com.bridgelabz.usermanager.model.User;
+import com.bridgelabz.usermanager.repository.UserRepository;
+import com.bridgelabz.usermanager.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
